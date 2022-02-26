@@ -6,7 +6,11 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {
+  "dependencies": {},
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
     "jest": "^27.5.1"
   }
 }
